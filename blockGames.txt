@@ -1,8 +1,8 @@
 steampowered.com
 steamcommunity.com
 store.steampowered.com
-#epicgames.com
-#epicgamescdn.com
+epicgames.com
+epicgamescdn.com
 origin.com
 ea.com
 blizzard.com
@@ -26,8 +26,8 @@ psn.com
 nintendo.com
 switch.nintendo.com
 twitch.tv
-#discord.com
-#discordapp.com
+discord.com
+discordapp.com
 fortnite.com
 callofduty.com
 warzone.com
